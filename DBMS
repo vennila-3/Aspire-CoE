@@ -34,3 +34,28 @@ Semistructural Database:
         SPARQL
     
         
+1 tier Architecutre:
+   In 1-Tier Architecture the database is directly available to the user,
+  the user can directly sit on the DBMS and use it that is, the client, server, and Database are all present on the same machine.
+Example:erp
+
+2. 2 tier architecture
+    The essential idea of client-server architecture is comparable to Two-tier DBMS Architecture. In a Two-tier Architecture, the server manages the database functionality. 
+    It makes it possible for the clients to use the Database through APIs (Application Programming Interfaces) over a direct internet connection.
+
+  example: 
+    Think of a time when we visited a bank to get some cash. The banker will check whether there is a sufficient balance after inputting the withdrawal amount and account information on the withdrawal slip by making an API call using his credentials to access the server-side Database. 
+    A two-tier DBMS is an example of a client-server architecture.
+
+3.3 tier architecture
+    The three-tier architecture is the most popular implementation of a multi-tier architecture and consists of a
+    single presentation tier, logic tier, and data tier. 
+  example:
+   suppose you are looking to find movie times in your area using a web application.
+    First, the presentation layer displays a web page with some fields for you to enter, like the date you want to view the movie and your zip code. This information is then passed to the application layer, which formats a query and passes it to the database layer.
+    The database system runs the query and returns the results (a list of movies available within your geographic area) to the application layer, which formats it into a web page.
+
+///////////// Normalization    ///////////////////////////
+
+
+     The page is then sent back to the browser, where the presentation layer displays it on a laptop or other device.
