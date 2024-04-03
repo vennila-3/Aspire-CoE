@@ -1,0 +1,36 @@
+DATA:
+     Data is the raw material that can be processed for any computing machine.
+
+Database Types:
+       Structural Database
+       Unstructural Database
+       Semistructure Database
+
+  Structural Database:  example : form filling
+        Structured data is information that has been formatted and transformed into a well-defined data model.
+        SQL relational databases, consisting of tables with rows and columns, are the perfect example of structured data.
+          
+           
+  Unstructural Database:    Example:  soical media
+        This data is difficult to process due to its complex arrangement and formatting.
+        Unstructured data can be defined as data in any form that does not have a pre-defined model or format.
+  Types of NoSql
+     Key-value pair.
+     Document-oriented.
+     Column-oriented.
+     Graph-based.
+     Time series.
+
+    
+Semistructural Database:
+        Semi-structured data or partially structured data is another category between structured and unstructured data.
+    types:
+       Document-oriented Databases
+       Graph Databases
+         
+        XML Query Languages (XQuery)
+        JSONiq
+        XPath
+        SPARQL
+    
+        
