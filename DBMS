@@ -54,8 +54,4 @@ Example:erp
    suppose you are looking to find movie times in your area using a web application.
     First, the presentation layer displays a web page with some fields for you to enter, like the date you want to view the movie and your zip code. This information is then passed to the application layer, which formats a query and passes it to the database layer.
     The database system runs the query and returns the results (a list of movies available within your geographic area) to the application layer, which formats it into a web page.
-
-///////////// Normalization    ///////////////////////////
-
-
      The page is then sent back to the browser, where the presentation layer displays it on a laptop or other device.
